@@ -1,0 +1,15 @@
+name: RNA-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bowtie2
+  - samtools
+  - bedtools
+  - bbmap
+  - trimmomatic
+  - fastqc
+  - seqtk
+  - kallisto
+  - spades
