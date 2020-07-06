@@ -1,3 +1,14 @@
 #!/bin/bash
 
-curl -L file:///c:\Users\evanw\Downloads\Research Folder\CW__45_4_S178_L002_R1_001.fastq.gz -o CW__45_4_S178_L002_R1_001.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23687165 -o 45R1.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23687357 -o 45R2.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23687372 -o 17R1.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23687375 -o 17R2.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705051 -o 41R1.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705057 -o 41R2.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705069 -o 84R1.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705072 -o 84R2.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705075 -o P3R1.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705630 -o P3R2.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705744 -o RBYR1.fastq.gz
+curl -L https://ndownloader.figshare.com/files/23705750 -o RBYR2.fastq.gz
