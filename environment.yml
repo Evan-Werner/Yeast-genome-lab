@@ -13,3 +13,4 @@ dependencies:
   - seqtk
   - kallisto
   - spades
+  - multiqc
