@@ -18,5 +18,5 @@ dependencies:
   - matplotlib
   - pysam
   - checkm-genome
-  - bit 
+  - conda install -c conda-forge -c bioconda -c defaults -c astrobiomike bit
   - prokka
