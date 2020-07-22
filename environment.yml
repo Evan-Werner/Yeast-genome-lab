@@ -14,3 +14,9 @@ dependencies:
   - kallisto
   - spades
   - multiqc
+  - numpy
+  - matplotlib
+  - pysam
+  - checkm-genome
+  - bit 
+  - prokka
