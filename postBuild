@@ -12,6 +12,4 @@ curl -L https://ndownloader.figshare.com/files/23705075 -o P3R1.fastq.gz
 curl -L https://ndownloader.figshare.com/files/23705630 -o P3R2.fastq.gz
 curl -L https://ndownloader.figshare.com/files/23705744 -o RBYR1.fastq.gz
 curl -L https://ndownloader.figshare.com/files/23705750 -o RBYR2.fastq.gz
-wget https://data.qiime2.org/distro/core/qiime2-2020.6-py36-linux-conda.yml
-conda env create -n qiime2-2020.6 --file qiime2-2020.6-py36-linux-conda.yml
-conda activate qiime2-2020.64
+
